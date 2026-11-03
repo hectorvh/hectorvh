@@ -1,4 +1,4 @@
-# Hector Valdes Hurtado
+# Hector Valdes
 
 M.Sc. student in Geoinformatics and Spatial Data Science at the University of Münster. Background in mechanical, electronic and computer-systems engineering, with 5+ years of industry software development in Python and C++ (GE Aerospace, Ford).
 
