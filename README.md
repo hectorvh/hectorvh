@@ -2,8 +2,11 @@
  
 M.Sc. student in Geoinformatics and Spatial Data Science at the University of Münster. Background in mechanical, electronic and computer-systems engineering, with 5+ years of industry software development in Python and C++.
  
-Portfolio: [hectorvh.com](http://hectorvh.com/)
-HuggingFace: [hectorvh](https://huggingface.co/hectorvh/)
+Portfolio: [hectorvh.com](http://hectorvh.com/) · [HuggingFace](https://huggingface.co/hectorvh/)
+
+## Contact
+ 
+[LinkedIn](https://www.linkedin.com/in/hector-valdes) · contact@hectorvh.com
  
 ## Focus
  
@@ -23,7 +26,3 @@ Python, C/C++, C# (Unity), SQL, MATLAB
 PyTorch, scikit-learn, NumPy, pandas  
 QGIS, PostGIS, GeoPandas, OpenDroneMap  
 Git, Linux, ESP32, Raspberry Pi
- 
-## Contact
- 
-[Portfolio](http://hectorvh.com/) · [LinkedIn](https://www.linkedin.com/in/hector-valdes) · [HuggingFace](https://huggingface.co/hectorvh/) · contact@hectorvh.com
