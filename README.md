@@ -26,4 +26,4 @@ Git, Linux, ESP32, Raspberry Pi
  
 ## Contact
  
-[Portfolio](http://hectorvh.com/) · [LinkedIn](https://www.linkedin.com/in/hector-valdes) · [HuggingFace](https://huggingface.co/hectorvh/) · hector.valdes@uni-muenster.de
+[Portfolio](http://hectorvh.com/) · [LinkedIn](https://www.linkedin.com/in/hector-valdes) · [HuggingFace](https://huggingface.co/hectorvh/) · contact@hectorvh.com
