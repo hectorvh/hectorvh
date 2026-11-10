@@ -2,11 +2,10 @@
  
 M.Sc. student in Geoinformatics and Spatial Data Science at the University of Münster. Background in mechanical, electronic and computer-systems engineering, and industry software development in Python and C++.
 
-Portfolio: [hectorvh.com](http://hectorvh.com/) · HuggingFace: [hectorvh](https://huggingface.co/hectorvh/)
-
 ## Contact
  
-LinkedIn: [hector-valdes](https://www.linkedin.com/in/hector-valdes) · Email: [contact@hectorvh.com](mailto:contact@hectorvh.com)
+LinkedIn: [hector-valdes](https://www.linkedin.com/in/hector-valdes) · Email: [contact@hectorvh.com](mailto:contact@hectorvh.com)\
+Portfolio: [hectorvh.com](https://hectorvh.com/) · HuggingFace: [hectorvh](https://huggingface.co/hectorvh/)
  
 ## Focus
 
