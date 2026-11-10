@@ -6,7 +6,7 @@ Portfolio: [hectorvh.com](http://hectorvh.com/) · HuggingFace: [hectorvh](https
 
 ## Contact
  
-[LinkedIn](https://www.linkedin.com/in/hector-valdes) · contact@hectorvh.com
+LinkedIn: [hector-valdes](https://www.linkedin.com/in/hector-valdes) · Email: [contact@hectorvh.com](mailto:contact@hectorvh.com)
  
 ## Focus
 
