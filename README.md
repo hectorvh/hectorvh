@@ -1,11 +1,14 @@
 # Hector Valdes
  
 M.Sc. student in Geoinformatics and Spatial Data Science at the University of Münster. Background in mechanical, electronic and computer-systems engineering, and industry software development in Python and C++.
-
-## Contact
  
-LinkedIn: [hector-valdes](https://www.linkedin.com/in/hector-valdes) · Email: [contact@hectorvh.com](mailto:contact@hectorvh.com)\
-Portfolio: [hectorvh.com](https://hectorvh.com/) · HuggingFace: [hectorvh](https://huggingface.co/hectorvh/)
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hector--valdes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-valdes)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0761--0350-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0761-0350)
+[![Email](https://img.shields.io/badge/✉%20Email-contact%40hectorvh.com-D14836)](mailto:contact@hectorvh.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hectorvh.com-111111?logo=googlechrome&logoColor=white)](https://hectorvh.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-hectorvh-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/hectorvh)
  
 ## Focus
 
